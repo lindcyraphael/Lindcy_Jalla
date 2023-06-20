@@ -8,6 +8,7 @@ Y_POS = 310
 JUMP_VEL = 8.5
 Y_POSDUCK = 340
 
+
 class Dinosaur:
     def __init__(self):
         self.image = RUNNING[0]
